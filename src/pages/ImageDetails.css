@@ -1,0 +1,13 @@
+
+ 
+@media (max-width: 600px) {
+    .map-larger-view {
+      display: none;
+    }
+}
+
+@media (min-width: 600px) {
+    .map-mobile-view {
+        display: none;
+    }
+}
